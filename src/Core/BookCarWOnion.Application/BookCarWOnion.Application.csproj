@@ -6,6 +6,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Infrastructure\BookCarWOnion.Persistence\BookCarWOnion.Persistence.csproj" />
+    <ProjectReference Include="..\..\Core\BookCarWOnion.Domain\BookCarWOnion.Domain.csproj" />
   </ItemGroup>
 </Project>

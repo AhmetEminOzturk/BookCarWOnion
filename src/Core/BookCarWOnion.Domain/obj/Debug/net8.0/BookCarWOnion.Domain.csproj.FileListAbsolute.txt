@@ -9,3 +9,4 @@ C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Domain\obj\Debug\net8.0\BookCarWO
 C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Domain\obj\Debug\net8.0\refint\BookCarWOnion.Domain.dll
 C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Domain\obj\Debug\net8.0\BookCarWOnion.Domain.pdb
 C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Domain\obj\Debug\net8.0\ref\BookCarWOnion.Domain.dll
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Domain\obj\Debug\net8.0\BookCarWOnion.Domain.sourcelink.json

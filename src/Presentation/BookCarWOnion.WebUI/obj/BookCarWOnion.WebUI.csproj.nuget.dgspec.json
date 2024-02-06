@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj"
+              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
+                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj"
               }
             }
           }
@@ -142,8 +142,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj"
+              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
+                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj"
               }
             }
           }
@@ -223,8 +223,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj"
+              "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
+                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj"
               }
             }
           }

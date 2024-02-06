@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj": {}
+    "c:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
+    "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj",
+        "projectUniqueName": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj",
         "projectName": "BookCarWOnion.Application",
-        "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj",
+        "projectPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\obj\\",
+        "outputPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj"
+              "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
+                "projectPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
+    "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
+        "projectUniqueName": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
         "projectName": "BookCarWOnion.Domain",
-        "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
+        "projectPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\obj\\",
+        "outputPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
+    "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj",
+        "projectUniqueName": "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj",
         "projectName": "BookCarWOnion.Persistence",
-        "projectPath": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj",
+        "projectPath": "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\obj\\",
+        "outputPath": "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj"
+              "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
+                "projectPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj"
               }
             }
           }
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj": {
+    "c:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj",
+        "projectUniqueName": "c:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj",
         "projectName": "BookCarWOnion.WebAPI",
-        "projectPath": "C:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj",
+        "projectPath": "c:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\BookCarWOnion.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\obj\\",
+        "outputPath": "c:\\Github\\BookCarWOnion\\src\\Presentation\\BookCarWOnion.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -223,8 +223,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj": {
-                "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Application\\BookCarWOnion.Application.csproj"
+              "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj": {
+                "projectPath": "c:\\Github\\BookCarWOnion\\src\\Infrastructure\\BookCarWOnion.Persistence\\BookCarWOnion.Persistence.csproj"
               }
             }
           }
@@ -245,7 +245,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [

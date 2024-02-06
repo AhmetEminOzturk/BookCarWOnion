@@ -15,3 +15,6 @@ C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\n
 C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.pdb
 C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.genruntimeconfig.cache
 C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\ref\BookCarWOnion.Persistence.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Application.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Application.pdb
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.sourcelink.json

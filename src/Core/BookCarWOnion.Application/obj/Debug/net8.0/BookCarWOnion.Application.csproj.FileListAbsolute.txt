@@ -1,0 +1,16 @@
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\bin\Debug\net8.0\BookCarWOnion.Application.deps.json
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\bin\Debug\net8.0\BookCarWOnion.Application.dll
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\bin\Debug\net8.0\BookCarWOnion.Application.pdb
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\bin\Debug\net8.0\BookCarWOnion.Domain.dll
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\bin\Debug\net8.0\BookCarWOnion.Domain.pdb
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.csproj.AssemblyReference.cache
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.AssemblyInfoInputs.cache
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.AssemblyInfo.cs
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.csproj.CoreCompileInputs.cache
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.sourcelink.json
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.csproj.CopyComplete
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.dll
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\refint\BookCarWOnion.Application.dll
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\BookCarWOnion.Application.pdb
+C:\Github\BookCarWOnion\src\Core\BookCarWOnion.Application\obj\Debug\net8.0\ref\BookCarWOnion.Application.dll

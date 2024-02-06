@@ -8,11 +8,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BookCarWOnion.Persistence.Context
 {
-    public class CarBookContext :DbContext
+    public class CarBookContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public CarBookContext(DbContextOptions<CarBookContext> options) : base(options)
         {
-            optionsBuilder.UseSqlServer("Server=AHMETRYZEN\\SQLEXPRESS;initial Catalog=UdemyCarBookDb;integrated Security=true;TrustServerCertificate=true;");
         }
         public DbSet<About> Abouts { get; set; }
         public DbSet<Banner> Banners { get; set; }
