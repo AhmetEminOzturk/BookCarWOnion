@@ -1,0 +1,17 @@
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Persistence.deps.json
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Persistence.runtimeconfig.json
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Persistence.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Persistence.pdb
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Domain.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\bin\Debug\net8.0\BookCarWOnion.Domain.pdb
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.csproj.AssemblyReference.cache
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.AssemblyInfoInputs.cache
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.AssemblyInfo.cs
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.csproj.CoreCompileInputs.cache
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.csproj.CopyComplete
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\refint\BookCarWOnion.Persistence.dll
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.pdb
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\BookCarWOnion.Persistence.genruntimeconfig.cache
+C:\Github\BookCarWOnion\src\Infrastructure\BookCarWOnion.Persistence\obj\Debug\net8.0\ref\BookCarWOnion.Persistence.dll

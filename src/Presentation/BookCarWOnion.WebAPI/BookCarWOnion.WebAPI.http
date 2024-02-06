@@ -1,0 +1,6 @@
+@BookCarWOnion.WebAPI_HostAddress = http://localhost:5276
+
+GET {{BookCarWOnion.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
