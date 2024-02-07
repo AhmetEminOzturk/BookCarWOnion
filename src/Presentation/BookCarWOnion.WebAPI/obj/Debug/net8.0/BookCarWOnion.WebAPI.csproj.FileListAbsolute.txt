@@ -76,3 +76,6 @@ C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\obj\Debug\net8.0\r
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\obj\Debug\net8.0\BookCarWOnion.WebAPI.pdb
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\obj\Debug\net8.0\BookCarWOnion.WebAPI.genruntimeconfig.cache
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\obj\Debug\net8.0\ref\BookCarWOnion.WebAPI.dll
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\bin\Debug\net8.0\MediatR.dll
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebAPI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

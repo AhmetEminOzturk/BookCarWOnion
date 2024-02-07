@@ -75,3 +75,6 @@ C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\bin\Debug\net8.0\Bo
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\obj\Debug\net8.0\BookCarWOnion.WebUI.csproj.AssemblyReference.cache
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\obj\Debug\net8.0\BookCarWOnion.WebUI.sourcelink.json
 C:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\obj\Debug\net8.0\BookCarWOnion.WebUI.csproj.CopyComplete
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\bin\Debug\net8.0\MediatR.dll
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\bin\Debug\net8.0\MediatR.Contracts.dll
+c:\Github\BookCarWOnion\src\Presentation\BookCarWOnion.WebUI\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

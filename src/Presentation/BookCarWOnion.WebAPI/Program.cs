@@ -13,6 +13,8 @@ using BookCarWOnion.Persistence.Repositories;
 using BookCarWOnion.Persistence.Repositories.CarRepositories;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
+using BookCarWOnion.Application.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -74,6 +76,7 @@ builder.Services.AddScoped<CreateContactCommandHandler>();
 builder.Services.AddScoped<UpdateContactCommandHandler>();
 builder.Services.AddScoped<RemoveContactCommandHandler>();
 
+builder.Services.AddApplicationService(builder.Configuration);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
