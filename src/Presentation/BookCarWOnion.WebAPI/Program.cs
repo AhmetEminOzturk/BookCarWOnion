@@ -14,6 +14,8 @@ using BookCarWOnion.Persistence.Repositories.CarRepositories;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using BookCarWOnion.Application.Services;
+using BookCarWOnion.Application.Interfaces.CarPricingInterfaces;
+using BookCarWOnion.Persistence.Repositories.CarPricingRepositories;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -37,6 +39,7 @@ builder.Services.AddDbContext<CarBookContext>(opt=> opt.UseSqlServer(connectionS
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 builder.Services.AddScoped(typeof(ICarRepository), typeof(CarRepository));
+builder.Services.AddScoped(typeof(ICarPricingRepository), typeof(CarPricingRepository));
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();
