@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {}
+    "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
+    "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
+        "projectUniqueName": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
         "projectName": "BookCarWOnion.Domain",
-        "projectPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
+        "projectPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\obj\\",
+        "outputPath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

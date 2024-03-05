@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookCarWOnion.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acda22f6ca356b5940faeebd55302dd9825a4e0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f30f6b6c20140e91e9b2359d51de866163e1168")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookCarWOnion.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookCarWOnion.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

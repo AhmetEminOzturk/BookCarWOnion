@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "koWBcRnmiF1HrOHPEqCuTHuOHTZQtsM8fNSG3nCfyZwYPgufcTaYoIR00A4nGs4rWk9gAg7jYb+g8mkhlchacw==",
+  "dgSpecHash": "kRRbNGjjxMM8ep996IuSFL5YaARJikwjDcYp9YQiliu7fgHJfHXX2H8PQpy99d68Ids/SC8wuImzH3FAv1aBaw==",
   "success": true,
-  "projectFilePath": "c:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
+  "projectFilePath": "C:\\Github\\BookCarWOnion\\src\\Core\\BookCarWOnion.Domain\\BookCarWOnion.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
